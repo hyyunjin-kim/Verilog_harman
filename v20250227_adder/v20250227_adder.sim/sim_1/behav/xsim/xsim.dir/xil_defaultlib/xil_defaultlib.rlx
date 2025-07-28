@@ -1,0 +1,8 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/verilog_harman/v20250227_adder/v20250227_adder.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/verilog_harman/v20250227_adder/v20250227_adder.srcs/sim_1/new/tb_adder.v,1740645226,verilog,,,,tb_adder,,,,,,,,
+C:/verilog_harman/v20250227_adder/v20250227_adder.srcs/sources_1/new/FA_4bit.v,1740643951,verilog,,C:/verilog_harman/v20250227_adder/v20250227_adder.srcs/sources_1/new/adder.v,,FA_4bit,,,,,,,,
+C:/verilog_harman/v20250227_adder/v20250227_adder.srcs/sources_1/new/adder.v,1740642267,verilog,,C:/verilog_harman/v20250227_adder/v20250227_adder.srcs/sim_1/new/tb_adder.v,,full_adder;half_adder,,,,,,,,
